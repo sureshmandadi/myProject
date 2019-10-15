@@ -1,2 +1,2 @@
 # myProject
-First repository
+Creating first repository
